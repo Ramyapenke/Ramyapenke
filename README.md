@@ -1,5 +1,5 @@
 # Hi there 👋I am Ramya
-## Aditya
+## Aditya engineering college
 
 <!--
 **Ramyapenke/Ramyapenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
