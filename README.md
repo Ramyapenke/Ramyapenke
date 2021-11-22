@@ -4,7 +4,7 @@
 <br> *HELLO* </br>
 **hello**
 ***hello***
-![dhoni img](https://i.pinimg.com/736x/e5/0b/d0/e50bd074500f08c8999ff997be332287.jpg)
+
 
 <!--
 **Ramyapenke/Ramyapenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
