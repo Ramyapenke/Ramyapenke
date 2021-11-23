@@ -11,7 +11,9 @@ Table in Readme file
 |s.no| Name| Roll-no|Branch|
 |----|-----|--------|------|
 |1|Ramya|549|CSE|
-|2|Blessy|513|CSE|
+|2|Blessy|513|MECH|
+|3|Ishu|561|EEE|
+|4|Sahas|525|ECE|
 
 # Lists
 ## Ordered Lists
@@ -29,7 +31,7 @@ Table in Readme file
 * EEE
 * ECE
 
-# Nested List
+## Nested List
 1. CSE
   - First Year
   - students are good
