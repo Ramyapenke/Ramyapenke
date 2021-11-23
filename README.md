@@ -1,4 +1,4 @@
-# Hi there 👋I am Ramya
+# Hi there 👋I am Ramya's dosth
 ## Aditya engineering college
 
 <br> *hello* </br>
@@ -26,10 +26,6 @@ Table in Readme file
 - CSE
 - EEE
 - ECE
-
-* CSE
-* EEE
-* ECE
 
 ## Nested List
 1. CSE
